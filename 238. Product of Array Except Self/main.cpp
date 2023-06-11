@@ -19,3 +19,7 @@ public:
         return pre;
     }
 };
+
+// Runtime: 31 ms
+// Memory: 24.7 MB
+// O(n)

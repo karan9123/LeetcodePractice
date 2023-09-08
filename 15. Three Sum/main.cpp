@@ -1,8 +1,18 @@
 #include <iostream>
+#include<algorithm>
 #include <vector>
 
 std::vector<std::vector<int>> threeSum(std::vector<int> &nums)
 {
+    std::vector<std::vector<int>> result;
+    int size = sizeof(nums) / sizeof(nums[0]);
+    if (size < 3){
+        return result;
+    }
+    std::sort(nums.begin(), nums.end());
+    for(int i = 0; i< size; i ++){
+
+    }
     
 }
 

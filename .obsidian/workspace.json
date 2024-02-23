@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "191. Number of 1 Bits.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -148,6 +148,9 @@
   },
   "active": "57cd777e708a9a49",
   "lastOpenFiles": [
+    "README.md",
+    "191. Number of 1 Bits.md",
+    "www.leetcode.com.md",
     "11. Container With Most Water.md",
     "3. Longest Substring Without Repeating Characters.md",
     "1. Two Sum.md",

@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "f148db69091e700a",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3a68dd6e519fcfe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57cd777e708a9a49",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "191. Number of 1 Bits.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4cc62845cd7fbe04",
+    "type": "split",
+    "children": [
+      {
+        "id": "76e75366825e8382",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9e04dee2472df03f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bdbeefd64c9feb81",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d10c31ba59d41d47",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df2989a6f94c14e1",
+    "type": "split",
+    "children": [
+      {
+        "id": "62e9c41e7f2046a3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99e158af94d9585f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "191. Number of 1 Bits.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cb5386a5d35cb0ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "191. Number of 1 Bits.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5e4f6cee70bac9f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1c7b2feee53585b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "191. Number of 1 Bits.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "57cd777e708a9a49",
+  "lastOpenFiles": [
+    "11. Container With Most Water.md",
+    "3. Longest Substring Without Repeating Characters.md",
+    "1. Two Sum.md",
+    "Welcome.md"
+  ]
+}

@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d3a68dd6e519fcfe",
+        "id": "dd459870b1f7562d",
         "type": "tabs",
         "children": [
           {
-            "id": "57cd777e708a9a49",
+            "id": "598fc509eea3d41d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Two Sum.md",
-                "mode": "preview",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Two Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1. Two Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "1. Two Sum.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,14 +138,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "57cd777e708a9a49",
+  "active": "598fc509eea3d41d",
   "lastOpenFiles": [
     "191. Number of 1 Bits.md",
-    "README.md",
-    "www.leetcode.com.md",
     "11. Container With Most Water.md",
     "3. Longest Substring Without Repeating Characters.md",
     "1. Two Sum.md",
+    "README.md",
+    "www.leetcode.com.md",
     "Welcome.md"
   ]
 }
